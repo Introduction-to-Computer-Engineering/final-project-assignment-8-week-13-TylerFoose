@@ -13,3 +13,7 @@ video: https://imgur.com/a/Rwbyp3r
 #### b
 changing wavelength with the function generator
 video: https://imgur.com/a/v5tZJmJ
+
+#### c 
+a one line code in java allowing the microbit to output pwm pulse to pin 0 
+video:https://imgur.com/a/mphbWIl

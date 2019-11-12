@@ -1,7 +1,7 @@
 # oscilloscope 
 
 
-## part 2 
-### 1
-this is the video for part 2 section i
+## part 1
+### warmup 
+this is the video for part 1 warmup
 video: https://imgur.com/a/ghAb5cp

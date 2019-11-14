@@ -19,3 +19,5 @@ a one line code in java allowing the microbit to output pwm pulse to pin 0
 video:https://imgur.com/a/mphbWIl
 
 #### d 
+the readings for the duty cycle we recorded were width pulse low 1.98 high 18.8 period low 11.20 high 20.05
+video: https://imgur.com/a/SfhWVpz

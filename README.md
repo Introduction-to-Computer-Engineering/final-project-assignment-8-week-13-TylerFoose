@@ -45,3 +45,12 @@ the master and slaves in a single master system are distinguished by the masters
 there are two types of frame protocols address frames and data frames. in address frames the master indicates the slave which a message is being sent along with one or more data frames the address frame is always first in any sequence the address is clocked out most significant bit first weather its a read or write operation. data frames are 8-bit data messages passed from master to slave or vice versa.
 #### part e
 the most appropriate trigger for reading I2C on an oscilloscope would be reading the SDA trigger first since the signal drops first if tou have 2 connectors you can read both SDA and SCL. 
+
+### part 4
+#### part I
+#### part a
+for this part i captured the address frame 
+#### part b
+when nothing is connected the i2c write function will continue to write to the arbatrary address
+#### part c 
+when writing to an internal address there is a difference in what is captured the address the signal is sent to will acknowledge the master and recieve additional data however there is not much difference otherwise

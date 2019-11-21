@@ -57,9 +57,7 @@ when writing to an internal address there is a difference in what is captured th
 
 #### part II 
 #### part a 
-the three addresses are different because the binary makes them either one numerical value higher or lower
-#### part b
-
+the three addresses are the same the only difference between them is weather the binary ends in a 1 or a 0 indicating wheather its a read or write function. 
 #### part c&d 
 numerical value 57 
 #### part e

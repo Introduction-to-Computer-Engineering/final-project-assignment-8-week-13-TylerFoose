@@ -54,3 +54,13 @@ for this part i captured the address frame
 when nothing is connected the i2c write function will continue to write to the arbatrary address
 #### part c 
 when writing to an internal address there is a difference in what is captured the address the signal is sent to will acknowledge the master and recieve additional data however there is not much difference otherwise
+
+#### part II 
+#### part a 
+the three addresses are different because the binary makes them either one numerical value higher or lower
+#### part b
+
+#### part c&d 
+numerical value 57 
+#### part e
+after moving value at 101 it does change with movement 

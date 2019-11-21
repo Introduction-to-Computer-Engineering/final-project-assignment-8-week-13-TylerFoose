@@ -50,6 +50,7 @@ the most appropriate trigger for reading I2C on an oscilloscope would be reading
 #### part I
 #### part a
 for this part i captured the address frame 
+pictures: https://imgur.com/a/tDMZ2kG
 #### part b
 when nothing is connected the i2c write function will continue to write to the arbatrary address
 #### part c 

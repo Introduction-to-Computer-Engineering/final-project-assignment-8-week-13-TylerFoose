@@ -57,6 +57,7 @@ when nothing is connected the i2c write function will continue to write to the a
 when writing to an internal address there is a difference in what is captured the address the signal is sent to will acknowledge the master and recieve additional data however there is not much difference otherwise
 
 #### part II 
+for the read function please reference I2C.Read.JS
 #### part a 
 the three addresses are the same the only difference between them is weather the binary ends in a 1 or a 0 indicating wheather its a read or write function. 
 #### part c&d 

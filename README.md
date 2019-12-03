@@ -49,12 +49,13 @@ the most appropriate trigger for reading I2C on an oscilloscope would be reading
 ### part 4
 #### part I
 #### part a
-for this part i captured the address frame 
+for this part i captured the address frame see I2C.Writebasic.JS
 pictures: https://imgur.com/a/tDMZ2kG
 #### part b
 when nothing is connected the i2c write function will continue to write to the arbatrary address
 #### part c 
-when writing to an internal address there is a difference in what is captured the address the signal is sent to will acknowledge the master and recieve additional data however there is not much difference otherwise
+when writing to an internal address there is a difference in what is captured the address the signal is sent to will acknowledge the master and recieve additional data however there is not much difference otherwise.
+see I2C.Writetoaddress.JS
 
 #### part II 
 for the read function please reference I2C.Read.JS
